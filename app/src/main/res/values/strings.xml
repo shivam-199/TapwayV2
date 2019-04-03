@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TapwayV2</string>
+
+    <string name="title_activity_vendor_registration">VendorRegistrationActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="imgdes">Milk Education</string>
+    <string name="choose">Choose</string>
+    <string name="Vendor">Vendor</string>
+    <string name="Delivery_boy">Delivery boy</string>
+    <string name="verify">Verification Code</string>
+    <string name="content2">Please type the Verification Code</string>
+    <string name="content">we will send you a One time SMS message \n \t\t\t\t\t\t\t carrier rates may apply</string>
+
+</resources>

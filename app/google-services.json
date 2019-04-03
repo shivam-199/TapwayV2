@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "141666179446",
+    "firebase_url": "https://tapwayv2.firebaseio.com",
+    "project_id": "tapwayv2",
+    "storage_bucket": "tapwayv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141666179446:android:7aadcf76e91f7202",
+        "android_client_info": {
+          "package_name": "com.example.tapwayv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141666179446-pjnecsne4penpn3svg3rb0vcrkr9c9ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tapwayv2",
+            "certificate_hash": "28175366298af8f1681058dd04f2b20662ff61cf"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39io-v34KB8tKgTWnz56Lz8vLXReQ0gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141666179446-ka3hh9trgqrqe48dlacit4a81bej4si6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
